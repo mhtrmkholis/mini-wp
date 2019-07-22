@@ -318,7 +318,7 @@ select.form-control:focus {
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  padding: 0.7em 24.5em;
+  padding: 0.7em 13.5em;
   font-size: 12px;
 }
 .footer__content {

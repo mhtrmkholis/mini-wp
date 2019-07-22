@@ -11,7 +11,7 @@ const errorHandlers = require('./middlewares/error-handlers');
 
 mongoose.set('useCreateIndex', true)
 mongoose.set('useFindAndModify', false);
-mongoose.connect('mongodb://localhost/MiniWP', { useNewUrlParser: true });
+mongoose.connect(`mongodb://${process.env.MONGO_DB}`, { useNewUrlParser: true });
 
 app.use(cors());
 app.use(express.json());

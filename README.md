@@ -1,6 +1,6 @@
 
 ## Link Deploy
-miniwp.mhtrmkholis.com
+http://miniwp.mhtrmkholis.com
 
 ## Environment
 

@@ -1,6 +1,6 @@
 
 ## Link Deploy
-http://miniwp.mhtrmkholis.com
+http://sharea.mhtrmkholis.com
 
 ## Environment
 
